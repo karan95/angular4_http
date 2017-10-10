@@ -26,3 +26,15 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Screenshot of Sample Angular 4 Application
+
+![page1](./src/assets/images/1.png?raw=true "a")
+
+![page2](./src/assets/images/2.png?raw=true "b")
+
+![page3](./src/assets/images/3.png?raw=true "c")
+
+![page4](./src/assets/images/4.png?raw=true "d")
+
+![page5](./src/assets/images/5.png?raw=true "e")
